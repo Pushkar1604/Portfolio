@@ -26,12 +26,11 @@ import HackZ from "./company/HackZ.png";
 import sih from "./company/sih.png";
 
 import Crowd$ from "./Crowd$.png";
-import CareConnect from "/src/assets/CareConnect.png";
+import CareConnect from "./CareConnect.png";
 import Flexiblle from "./Flexiblle.png";
 import EC from "./EC.png";
 import B1 from "./B1.png";
 import B2 from "./B2.png";
-import pass_pic from "./pass_pic.png";
 export {
   logo,
   backend,
@@ -63,5 +62,4 @@ export {
   EC,
   B1,
   B2,
-  pass_pic,
 };
