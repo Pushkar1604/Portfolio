@@ -34,7 +34,6 @@ import {
   EC,
   B1,
   B2,
-  pass_pic,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
