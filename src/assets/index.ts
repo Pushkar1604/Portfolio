@@ -26,7 +26,7 @@ import HackZ from "./company/HackZ.png";
 import sih from "./company/sih.png";
 
 import Crowd$ from "./Crowd$.png";
-import CareConnect from "./CareConnect.png";
+import CareConnect from "/src/assets/CareConnect.png";
 import Flexiblle from "./Flexiblle.png";
 import EC from "./EC.png";
 import B1 from "./B1.png";
